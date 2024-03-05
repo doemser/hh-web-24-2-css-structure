@@ -1,0 +1,16 @@
+@import "./components/blogpost.css";
+@import "./components//flex-container.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: lightblue;
+}
+
+:root {
+  --primary-color: green;
+  --secondary-color: blue;
+  --contrast-text: white;
+}

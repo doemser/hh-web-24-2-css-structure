@@ -1,0 +1,11 @@
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 500px;
+  border: 1px solid blue;
+}
+
+.flex-container--column {
+  flex-direction: column;
+}
